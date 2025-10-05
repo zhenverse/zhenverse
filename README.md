@@ -12,4 +12,4 @@
 ![WakaTime Stats (All-time)](https://github-readme-stats.vercel.app/api/wakatime?username=zhenverse&layout=compact&theme=dark&langs_count=8&range=all_time&custom_title=WakaTime%20Stats%20(All-time)) ![WakaTime Stats (7-day)](https://github-readme-stats.vercel.app/api/wakatime?username=zhenverse&layout=compact&theme=dark&langs_count=8&range=last_7_days&custom_title=WakaTime%20Stats%20(7-day))
 
 
-![](https://komarev.com/ghpvc/?username=zhenverse&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=zhenverse&style=for-the-badge&color=0e75b6)
