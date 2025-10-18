@@ -9,8 +9,7 @@
 
 ## ⏱️ WakaTime Stats
 
-![WakaTime Stats (All-time)](https://github-readme-stats.vercel.app/api/wakatime?username=zhenverse&layout=compact&theme=dark&langs_count=8&range=all_time&custom_title=WakaTime%20Stats%20(All-time)&bust_cache=1) 
-![WakaTime Stats (7-day)](https://github-readme-stats.vercel.app/api/wakatime?username=zhenverse&layout=compact&theme=dark&langs_count=8&range=last_7_days&custom_title=WakaTime%20Stats%20(7-day)&bust_cache=2)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhenverse&layout=compact&theme=dark&langs_count=8&range=all_time&custom_title=WakaTime%20Stats) 
 
 
 ![](https://komarev.com/ghpvc/?username=zhenverse&style=for-the-badge&color=0e75b6)
