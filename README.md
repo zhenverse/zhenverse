@@ -5,11 +5,11 @@
 
 ## 📊 GitHub Stats
 
-![Zhenverse's GitHub Statistics](https://raw.githubusercontent.com/zhenverse/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![Languages Used](https://raw.githubusercontent.com/zhenverse/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Zhenverse's GitHub Statistics](https://raw.githubusercontent.com/zhenverse/github-stats/master/generated/overview.svg) ![Languages Used](https://raw.githubusercontent.com/zhenverse/github-stats/master/generated/languages.svg)
 
 ## ⏱️ WakaTime Stats
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhenverse&layout=compact&theme=dark&langs_count=8&range=all_time&custom_title=WakaTime%20Stats) 
+![WakaTime All-Time](https://raw.githubusercontent.com/zhenverse/github-stats/master/generated/waka_all_time.svg) ![WakaTime Last 7 Days](https://raw.githubusercontent.com/zhenverse/github-stats/master/generated/waka_week.svg)
 
 
 ![](https://komarev.com/ghpvc/?username=zhenverse&style=for-the-badge&color=0e75b6)
