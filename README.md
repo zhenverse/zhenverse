@@ -10,6 +10,3 @@
 ## ⏱️ WakaTime Stats
 
 ![WakaTime All-Time](https://raw.githubusercontent.com/zhenverse/github-stats/master/generated/waka_all_time.svg) ![WakaTime Last 7 Days](https://raw.githubusercontent.com/zhenverse/github-stats/master/generated/waka_week.svg)
-
-
-![](https://komarev.com/ghpvc/?username=zhenverse&style=for-the-badge&color=0e75b6)
