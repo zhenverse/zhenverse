@@ -5,7 +5,14 @@
 
 ## 📊 GitHub Stats
 
-![Zhenverse's GitHub Statistics](https://raw.githubusercontent.com/zhenverse/github-stats/master/generated/overview.svg) ![Languages Used](https://raw.githubusercontent.com/zhenverse/github-stats/master/generated/languages.svg)
+<a>
+<img src="https://raw.githubusercontent.com/zhenverse/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/zhenverse/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a>
+<img src="https://raw.githubusercontent.com/zhenverse/github-stats/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/zhenverse/github-stats/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</a>
 
 ## ⏱️ WakaTime Stats
 
